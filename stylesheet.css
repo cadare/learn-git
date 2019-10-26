@@ -2,3 +2,18 @@ body {
   background-color: #333;
   color: azure;
 }
+
+.section {
+  height: 30rem;
+  width: 100%;
+  background-color: blue;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.div {
+  height: 50%;
+  width: 30%;
+  background-color: brown;
+}
