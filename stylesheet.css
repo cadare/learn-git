@@ -15,7 +15,9 @@ body {
 .div {
   height: 50%;
   width: 30%;
-  background-color: green;
+  background-color: blue;
+  border-radius: 50px;
+  border: 2px solid red;
 }
 
 h1,
