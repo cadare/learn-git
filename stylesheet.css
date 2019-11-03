@@ -32,7 +32,7 @@ body {
 .img_first {
   height: 350px;
   width: 100%;
-  border: 2px solid red;
+  border: 2px solid green;
 
   background: url('https://images.unsplash.com/photo-1539683255143-73a6b838b106?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=332&q=80');
 }
